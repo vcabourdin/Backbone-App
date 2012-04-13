@@ -1,0 +1,505 @@
+{
+    "nb_questions":167,
+    "questions":[{
+        "id":1292,
+        "text":"Satisfying other people’s (customers, superiors, etc) needs is more important to me than my own needs."
+    },{
+        "id":1293,
+        "text":"When working, I am interested in challenging tasks."
+    },{
+        "id":1294,
+        "text":"Climbing the career ladder is one of my most important professional goals."
+    },{
+        "id":1295,
+        "text":"I possess vast knowledge that is of great use in my work."
+    },{
+        "id":1296,
+        "text":"At work it is important for me to be considerate of the needs of my colleagues/employees."
+    },{
+        "id":1297,
+        "text":"I find it easy to make professional contact with strangers."
+    },{
+        "id":1298,
+        "text":"When I am convinced by an idea, I will get my way at work even if there is a lot of resistance."
+    },{
+        "id":1299,
+        "text":"I am said to be able to detect the reasons for a conflict easily."
+    },{
+        "id":1300,
+        "text":"I will only do someone a favour if they return it."
+    },{
+        "id":1301,
+        "text":"I always follow instructions from my superiors to the letter."
+    },{
+        "id":1302,
+        "text":"I am not inspired by the working methods of others, but prefer to keep to my way of doing things."
+    },{
+        "id":1303,
+        "text":"My colleagues can learn considerably from me."
+    },{
+        "id":1304,
+        "text":"I tend to analyse problems that I come accross from various perspectives."
+    },{
+        "id":1305,
+        "text":"I do not risk an argument, just to be in the right in professional matters."
+    },{
+        "id":1306,
+        "text":"I avoid social events with colleagues/employees."
+    },{
+        "id":1307,
+        "text":"I can easily put myself in the shoes of my colleagues and see things from their perspective."
+    },{
+        "id":1308,
+        "text":"Through my conduct at work, I demonstrate great practical competencies."
+    },{
+        "id":1309,
+        "text":"I am especially irritable during stressful periods at work ."
+    },{
+        "id":1310,
+        "text":"I am happy to change procedure at work, if someone recommends a new method to me."
+    },{
+        "id":1311,
+        "text":"It is repeatedly confirmed to me by various colleagues that I exude self-confidence."
+    },{
+        "id":1312,
+        "text":"Everybody should be allowed to practise his/her religion the way he/she wants to."
+    },{
+        "id":1313,
+        "text":"When I am in charge of a group at work, I am not comfortable having to assert myself."
+    },{
+        "id":1314,
+        "text":"During negotiations I always try to see things from my counterpart\u0027s point of view."
+    },{
+        "id":1315,
+        "text":"My colleagues say that I am an especially talented networker, both in building and maintaining relationships."
+    },{
+        "id":1316,
+        "text":"I am more the specialist than the leader."
+    },{
+        "id":1317,
+        "text":"Most people can be trusted."
+    },{
+        "id":1318,
+        "text":"I have little interest in other people\u0027s needs and interests at work."
+    },{
+        "id":1319,
+        "text":"Assignments with challenging content do not appeal to me."
+    },{
+        "id":1320,
+        "text":"I am direct in telling my colleagues/employees what I think, even if my opinion could hurt them."
+    },{
+        "id":1321,
+        "text":"When working in a team my colleagues take my advice on board."
+    },{
+        "id":1322,
+        "text":"When there is a need to make new professional contacts, I am happy to make the first move"
+    },{
+        "id":1323,
+        "text":"I understand intuitively what the needs and expectations of my colleagues are."
+    },{
+        "id":1324,
+        "text":"I trust my abilities, even if I make a lot of mistakes."
+    },{
+        "id":1325,
+        "text":"When an important decision needs to be taken, I carefully consider all the consequences of each possibility."
+    },{
+        "id":1326,
+        "text":"I take pleasure in having an impact on colleagues in relation to the goals set by the business."
+    },{
+        "id":1327,
+        "text":"In a professional argument I am the first to give in."
+    },{
+        "id":1328,
+        "text":"In order to achieve good results at work, I find out exactly what is expected of me."
+    },{
+        "id":1329,
+        "text":"I complain about colleagues/employees who do not take their work seriously enough."
+    },{
+        "id":1330,
+        "text":"It is said that I am charismatic."
+    },{
+        "id":1331,
+        "text":"I use tried and tested procedures to approach problems."
+    },{
+        "id":1332,
+        "text":"I really enjoy taking decisions."
+    },{
+        "id":1333,
+        "text":"I make sure I take a central position in professional networks."
+    },{
+        "id":1334,
+        "text":"I do not doubt my own abilities, even if I am openly and personally criticized."
+    },{
+        "id":1335,
+        "text":"Other perspectives and points of view enrich my life."
+    },{
+        "id":1336,
+        "text":"When taking decisions at work it is important to consider external factors, such as economic development."
+    },{
+        "id":1337,
+        "text":"When I am worried, it is better not to speak to me."
+    },{
+        "id":1338,
+        "text":"With regard to my work I have an in-depth/solid theoretical knowledge."
+    },{
+        "id":1339,
+        "text":"When a colleague achieves good results, I will always congratulate them."
+    },{
+        "id":1340,
+        "text":"I can assert myself successfully in all situations."
+    },{
+        "id":1341,
+        "text":"When I feel that colleagues/superiors do not share my opinion to a workrelated topic, I\u0027ll keep quiet."
+    },{
+        "id":1342,
+        "text":"When I meet strangers, I naturally assume that they are trustworthy."
+    },{
+        "id":1343,
+        "text":"I feel that some rituals in other religions are inappropriate."
+    },{
+        "id":1344,
+        "text":"My colleagues/superiors do not describe me as someone who is especially sociable."
+    },{
+        "id":1345,
+        "text":"I am a born leader."
+    },{
+        "id":1346,
+        "text":"I am dependent on others when it comes to solving work-related problems."
+    },{
+        "id":1347,
+        "text":"Conflicts amongst colleagues unsettle me."
+    },{
+        "id":1348,
+        "text":"I carefully consider the chances of success of various alternatives when making decisions."
+    },{
+        "id":1349,
+        "text":"I am more committed to the success of the team than to my own success."
+    },{
+        "id":1350,
+        "text":"When at work I do not have time to worry about other people\u0027s needs."
+    },{
+        "id":1351,
+        "text":"At work I prefer to keep to tried and tested methods than to try out new approaches."
+    },{
+        "id":1352,
+        "text":"I enjoy being the centre of attention."
+    },{
+        "id":1353,
+        "text":"I am not interested in getting a professional post if I would have to fight hard for it."
+    },{
+        "id":1354,
+        "text":"I take the time required before making a decision."
+    },{
+        "id":1355,
+        "text":"I often do not know how to handle problems."
+    },{
+        "id":1356,
+        "text":"One of my strengths is my ability to get over setbacks and failure fast."
+    },{
+        "id":1357,
+        "text":"When taking decisions in a group I have little interest in the opinions of the others."
+    },{
+        "id":1358,
+        "text":"In the past I have proven that I can handle unexpected situations easily."
+    },{
+        "id":1359,
+        "text":"I prefer to let others make wide-reaching leadership decisions."
+    },{
+        "id":1360,
+        "text":"I will not tolerate even small mistakes made by colleagues/employees."
+    },{
+        "id":1361,
+        "text":"I try to consider other people\u0027s interests when carrying out my professional duties."
+    },{
+        "id":1362,
+        "text":"I avoid activities which would require the building of a professional network."
+    },{
+        "id":1363,
+        "text":"At work I find it easy to get my proposals accepted, even when their is opposition."
+    },{
+        "id":1364,
+        "text":"I always help my colleagues when they are having problems."
+    },{
+        "id":1365,
+        "text":"When a work-related confict involves me, I do not make compromises."
+    },{
+        "id":1366,
+        "text":"I can behave aggressively without an obvious reason."
+    },{
+        "id":1367,
+        "text":"I aim to take a leading position in the company in order to impart my knowledge and experience."
+    },{
+        "id":1368,
+        "text":"I am aware of how I should behave in most social situations"
+    },{
+        "id":1369,
+        "text":"I appreciate the company of others and need contact with people at work."
+    },{
+        "id":1370,
+        "text":"When I take a decision, I explain how it came about to the people concerned."
+    },{
+        "id":1371,
+        "text":"When mistakes are made I refuse to take any form of personal responsibility."
+    },{
+        "id":1372,
+        "text":"Most people say that I express myself in a clear and structured manner."
+    },{
+        "id":1373,
+        "text":"I always do everything in my power to guarantee the success of the company."
+    },{
+        "id":1374,
+        "text":"I am interested in challenging work assignments."
+    },{
+        "id":1375,
+        "text":"My colleagues say that I have the ability to assert myself appropriately."
+    },{
+        "id":1376,
+        "text":"I would rather give instructions than follow them."
+    },{
+        "id":1377,
+        "text":"In a work group there is no sense in wasting time listening to everyone\u0027s opinion."
+    },{
+        "id":1378,
+        "text":"When I have to decide to let employees go and have to carry this out, this can have a negative effect on my mood."
+    },{
+        "id":1379,
+        "text":"I make a habit of ensuring that the person I am speaking to has understood me correctly."
+    },{
+        "id":1380,
+        "text":"It is everyone\u0027s contribution that makes the company successful."
+    },{
+        "id":1381,
+        "text":"It is important for me that I am seen as a decent person in my professional environment."
+    },{
+        "id":1382,
+        "text":"I am known to be able to identify customer needs in a differentiated manner."
+    },{
+        "id":1383,
+        "text":"I have full control over my moods and emotions."
+    },{
+        "id":1384,
+        "text":"My colleagues respect me."
+    },{
+        "id":1385,
+        "text":"I especially enjoy being able to be of service to others in my professional activity."
+    },{
+        "id":1386,
+        "text":"I prefer a professional environment in which there is a limit to the amount of contact with others."
+    },{
+        "id":1387,
+        "text":"In conflicts I make sure the interests of all parties are respected."
+    },{
+        "id":1388,
+        "text":"I appreciate receiving advice as to how I can improve my work methods."
+    },{
+        "id":1389,
+        "text":"I am very nervous when I must hold a presentation in front of a large audience."
+    },{
+        "id":1390,
+        "text":"Most people have good intentions."
+    },{
+        "id":1391,
+        "text":"I am not a moody person."
+    },{
+        "id":1392,
+        "text":"It is said that I can motivate others skillfully."
+    },{
+        "id":1393,
+        "text":"I do everything possible to continuously develop my competences."
+    },{
+        "id":1394,
+        "text":"I especially appreciate having close contact with employees/colleagues."
+    },{
+        "id":1395,
+        "text":"I do/would not mind taking hard decisions regarding staff."
+    },{
+        "id":1396,
+        "text":"When people of different cultures come together, they enrich each other\u0027s lives."
+    },{
+        "id":1397,
+        "text":"When my professional opinion is not accepted by colleagues/superiors, I do everything I can to convince them."
+    },{
+        "id":1398,
+        "text":"Colleagues say that I contribute to a bad working atmosphere."
+    },{
+        "id":1399,
+        "text":"At work I would prefer to give a course, than to attend one."
+    },{
+        "id":1400,
+        "text":"It is one of my most important professional goals to take on leadership responsibility."
+    },{
+        "id":1401,
+        "text":"I am able to master my emotions in any given situation."
+    },{
+        "id":1402,
+        "text":"At work I express my opinions, even if I could hurt myself by doing so."
+    },{
+        "id":1403,
+        "text":"Sometimes I do not feel like going to work."
+    },{
+        "id":1404,
+        "text":"The idea of giving a speech to a large audience does not appeal to me."
+    },{
+        "id":1405,
+        "text":"Good-natured people usually get exploited by others."
+    },{
+        "id":1406,
+        "text":"I find many of the customs of my foreign colleagues surprising."
+    },{
+        "id":1407,
+        "text":"During conflicts with colleagues I put myself in their position."
+    },{
+        "id":1408,
+        "text":"I avoid professional situations in which I must approach others."
+    },{
+        "id":1409,
+        "text":"My colleague\u0027s bad mood has no influence on my own mood."
+    },{
+        "id":1410,
+        "text":"I would never betray my employer no matter what."
+    },{
+        "id":1411,
+        "text":"It unsettles me, when I am criticized personally."
+    },{
+        "id":1412,
+        "text":"I try harder to satisfy the needs of others than my own."
+    },{
+        "id":1413,
+        "text":"I would gladly participate in training that would enable me to learn about new topics."
+    },{
+        "id":1414,
+        "text":"In a team the group result is more important to me than my own success."
+    },{
+        "id":1415,
+        "text":"When making professional contacts I prefer others to approach me."
+    },{
+        "id":1416,
+        "text":"I do not avoid conflicts of any kind at work."
+    },{
+        "id":1417,
+        "text":"I am enthusiastic when new working procedures are introduced in my department."
+    },{
+        "id":1418,
+        "text":"Professionally, I am not always 100% involved."
+    },{
+        "id":1419,
+        "text":"I am often approached when the problem to be solved involves interpersonal relations."
+    },{
+        "id":1420,
+        "text":"I live by the motto: \"Trust is good, checking is better\""
+    },{
+        "id":1421,
+        "text":"One of my distinguishing strengths is my confidence in social situations"
+    },{
+        "id":1422,
+        "text":"In discussions with colleagues/employees I speak more than others."
+    },{
+        "id":1423,
+        "text":"When I am being strongly criticized, this does not influence my behaviour toward my colleagues."
+    },{
+        "id":1424,
+        "text":"I often achieve professional successes because I correctly judge the expectations of others."
+    },{
+        "id":1425,
+        "text":"Others say that I am especially ready to be of service."
+    },{
+        "id":1426,
+        "text":"When my work methods do not lead to success, I will gladly try out new methods."
+    },{
+        "id":1427,
+        "text":"People call on me when a convincing communicator is required."
+    },{
+        "id":1428,
+        "text":"In the past I have tried asserting my opinion even in the face of heavy opposition."
+    },{
+        "id":1429,
+        "text":"I will intervene strongly in serious conflicts."
+    },{
+        "id":1430,
+        "text":"I am annoyed when asked to work overtime."
+    },{
+        "id":1431,
+        "text":"I can do my work blindfolded."
+    },{
+        "id":1432,
+        "text":"I have no difficulty arguing against beliefs that are diametrically opposed to my own outlook on life."
+    },{
+        "id":1433,
+        "text":"I am recognised as a person who can solve any type of conflict."
+    },{
+        "id":1434,
+        "text":"I am not especially strong in the theoretical aspects of my work."
+    },{
+        "id":1435,
+        "text":"I am not sure whether my company would support me come what may."
+    },{
+        "id":1436,
+        "text":"As soon as I recognize a (possible) conflict, I take a position."
+    },{
+        "id":1437,
+        "text":"When I want something from others, I always know exactly how to go about it."
+    },{
+        "id":1438,
+        "text":"I frequently talk with persons of different status, from different cultures or that speak another language, and I enjoy doing so."
+    },{
+        "id":1439,
+        "text":"Foreigners have to adapt their way of life to the mentality of the country they live in."
+    },{
+        "id":1440,
+        "text":"I find it difficult to judge how to behave in difficult conflict situations."
+    },{
+        "id":1441,
+        "text":"I do not leave anything to chance in my work."
+    },{
+        "id":1442,
+        "text":"In crises I often do not know which decision to take."
+    },{
+        "id":1443,
+        "text":"Even if I do not really know someone, I initially trust him/her."
+    },{
+        "id":1444,
+        "text":"I think it is great to learn about other ways of life."
+    },{
+        "id":1445,
+        "text":"Companies seek to exploit their employees."
+    },{
+        "id":1446,
+        "text":"The customs of certain foreign groups seem strange to me."
+    },{
+        "id":1447,
+        "text":"I can sometimes be mean/unfair to others."
+    },{
+        "id":1448,
+        "text":"Others say that I am very self-confident/self-assured."
+    },{
+        "id":1449,
+        "text":"I rarely criticise others because I don\u0027t want to put interpersonal harmony at risk."
+    },{
+        "id":1450,
+        "text":"It is important to me to involve others in my work."
+    },{
+        "id":1451,
+        "text":"I only help others if I am sure that they would also help me."
+    },{
+        "id":1452,
+        "text":"At work you shouldn\u0027t take a lot of risks; you should trust in proven methods."
+    },{
+        "id":1453,
+        "text":"I do my own work first and only then take the time to look after the needs of others."
+    },{
+        "id":1454,
+        "text":"Even if I have my own firm opinion, I will seek a compromise in case of disagreement"
+    },{
+        "id":1455,
+        "text":"It is very easy for me to learn and apply new practices."
+    },{
+        "id":1456,
+        "text":"I have no problem putting trust in other people, even if I do not know them yet."
+    },{
+        "id":1457,
+        "text":"When the opinions/views of other people differ a lot from my own, I find it hard not to argue against them."
+    },{
+        "id":1458,
+        "text":"Most people tell me that I place a lot of confidence in them."
+    }]
+}
