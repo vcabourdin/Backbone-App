@@ -6,7 +6,7 @@ define([
     ], function($, _, Backbone, Item){
         var Items = Backbone.Collection.extend({
             model: Item,
-            url: "/data/webservice.php",
+            url: "data/items.json",
             parse: function(data) {
                 return data.results;
             },
