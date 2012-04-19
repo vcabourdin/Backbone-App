@@ -1,7 +1,6 @@
 ({
     name: '../js/main',
     baseUrl: '../js',
-    out: 'output/js/main.js',
-    findNestedDependencies: true,
+    out: '../main-build.js',
     mainConfigFile: '../js/main.js'
 })

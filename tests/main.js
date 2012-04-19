@@ -15,7 +15,7 @@ require.config({
 
 require([
 //    '/tests/models/Item',
-    '/tests/collections/Items',
+    '../tests/collections/Items',
     ], function(Item, Items){
         
     });

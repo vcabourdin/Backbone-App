@@ -14,11 +14,9 @@ require.config({
 });
 
 require([
-    'jQuery', 
-    'Underscore', 
-    'Backbone',
-    'app',
+    'order!loader',
+    'order!app',
     '../tests/main',
-    ], function($, _, Backbone, App){
+    ], function(Loader, App){
         App.initialize();
     });
