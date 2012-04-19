@@ -1,3 +1,3 @@
-define(['loader'], function(Loader){
+define(['order!loader'], function(Loader){
   return Loader.Backbone;
 });

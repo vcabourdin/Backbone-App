@@ -14,7 +14,8 @@ require.config({
 });
 
 require([
-    'app',
-    ], function(App){
+    'order!loader',
+    'order!app',
+    ], function(Loader, App){
         App.initialize();
     });
