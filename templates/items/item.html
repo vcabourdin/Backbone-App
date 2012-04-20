@@ -1,3 +1,13 @@
-<li>
-    ID = {{= item.get("id") }} => {{= item.get("text") }} {{= item.get("type") }} {{= item.get("formItemHtml") }}
+<li data-id="{{= item.get('id')}}" class="NItemLi row-fluid odd">
+    <div class="NItemText span7">
+        <div class="NItemTextContent">
+            <div class="NItemNumber">
+                <div class="NItemNumberContent">1</div>
+            </div>
+            {{= item.get("text") }}
+        </div>
+    </div>
+    <div class="NItemFormContent NRadioGroup">
+        {{= item.get("formItemHtml") }}
+    </div>
 </li>

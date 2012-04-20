@@ -19,7 +19,7 @@ define([
                 _.each(this.options.items.models, function(item){
                     new itemsItem({
                         model: item, 
-                        el: $("#ulItems")
+                        el: $("#NItemsUl")
                     });
                 });
                 
