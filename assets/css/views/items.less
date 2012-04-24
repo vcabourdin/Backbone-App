@@ -1,0 +1,128 @@
+div#NItemsContainer {
+    ul.NItemsUl {
+        li.NItemLi {
+            clear: both;
+            padding: @base-padding;
+            margin: @small-margin 0 @small-margin 0;
+            color: @base-text-color;
+            .border-radius(@small-radius, @small-radius,@small-radius, @small-radius);
+
+
+            &hover,
+            &.hovered,
+            &.active { 
+                color: @dark-text-color2; 
+
+                div.NItemText div.NItemNumber div.NItemNumberContent {
+                    background-color: @dark-color;
+                }
+
+                &.odd,
+                &.even {
+                    background-color: darken(@light-color, 5%);
+                }
+
+                div.NItemForm div.NItemFormContent div.NItemFormContentItem label {
+                    color: @dark-text-color2; 
+                }
+            }
+
+            &.active { 
+                div.NItemText div.NItemNumber div.NItemNumberContent {
+                    background-color: @item-number-active-bg-color;
+                    color:@item-number-active-text-color;
+                }
+            }
+
+            &.odd {
+                background-color: @lighter-color;
+            }
+
+            &.even {
+                background-color: @light-color;
+            }
+
+            div.NItemText {
+                div.NItemNumber {
+                    display: inline-block;
+                    margin: 0 @base-margin 0 0;
+
+                    div.NItemNumberContent {
+                        width:@item-number-width;
+                        height:@item-number-height;
+                        line-height:@item-number-height;
+                        text-align: center;
+                        background-color: @base-color;
+                        font-weight: bold;
+                        .border-radius(@base-radius, @base-radius);
+                    }
+                }
+            }
+
+            div.NItemForm {
+                text-align: @item-form-text-align;
+
+                div.NItemFormContent {
+                    height:@item-height;
+                    line-height:@item-height;  
+                    float:@item-form-float;
+
+                    div.NItemFormContentItem {
+                        height:@item-height;
+                        line-height:@item-height;  
+                        display:block;
+                        float:@item-form-item-float;
+
+                        &.first span {
+                            .border-radius(@base-radius,0,0,@base-radius);
+                        }
+
+                        &.last span {
+                            .border-radius(0,@base-radius,@base-radius,0);
+                        }
+
+                        label {
+                            margin: 0 @small-margin 0 @small-margin;  
+                            height:@item-form-item-label-height;
+                            line-height:@item-form-item-label-height;  
+                            display:block;
+                            float:@item-form-item-label-float;
+                            color: @base-text-color;
+                        }
+
+                        span {
+                            width:@item-form-item-span-width;
+                            height:@item-form-item-span-height;
+                            line-height:@item-form-item-span-height;
+                            padding: 0 @small-padding 0 @small-padding;
+                            background-color: @base-color;
+                            cursor: pointer;
+                            margin: 0 1px 0 0px;
+                            display:block;
+                            float:@item-form-item-span-float;
+                            text-align:center;
+
+                            &.hovered {
+                                background-color: @dark-color;
+                            }
+
+                            input[type="image"], 
+                            input[type="checkbox"], 
+                            input[type="radio"] {
+                                margin:-3px 0 0 0;
+                                padding:0;
+                                line-height:@item-height;
+                                vertical-align: middle;
+                            }
+                        }
+
+                        &.active span {
+                            background-color: @item-number-active-bg-color;
+                            color:@item-number-active-text-color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

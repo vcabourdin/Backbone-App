@@ -10,6 +10,7 @@ require.config({
         cssua: 'libs/cssua.min',
         html5: 'libs/html5',
         less: 'libs/less-1.3.0.min',
+        loadCss: 'libs/loadCss',
         Underscore: 'libs/underscore/underscore',
         Backbone: 'libs/backbone/backbone',
         templates: '../templates'
@@ -20,6 +21,7 @@ require.config({
 require([
     'order!loader',
     'order!app'
-    ], function(Loader, App){
-        App.initialize();
+    ], function(Loader, App, loadCss){
+        App.initialize(); 
+        
     });

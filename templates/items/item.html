@@ -7,7 +7,9 @@
             {{= item.get("text") }}
         </div>
     </div>
-    <div class="NItemFormContent NRadioGroup">
-        {{= item.get("formItemHtml") }}
+    <div data-id="{{= item.get('id')}}" class="NItemForm span5">
+        <div class="NItemFormContent NRadioGroup">
+            {{= item.get("formItemHtml") }}
+        </div>
     </div>
 </li>

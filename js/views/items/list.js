@@ -6,7 +6,7 @@ define([
     'text!templates/items/list.html'
     ], function($, _, Backbone, itemsItem, itemsListTpl){
         var list = Backbone.View.extend({
-            el: $("#page"),
+            el: $("#NQuizzWidget"),
             className:"items",
             initialize: function(options) {
                 _.bindAll(this, 'render');
