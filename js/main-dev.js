@@ -18,18 +18,16 @@ require.config({
 
 });
 
-//require([
-//    'order!loadCss'
-//    ], function(loadCss){
-//        //load css files
-//        loadCss.load([
-//            "main-build.css"
-//            ], 'css');
-//    });
-
 require([
     'order!loader',
-    'order!app'
-    ], function(Loader, App){
+    'order!app',
+    'loadCss'
+    ], function(Loader, App, loadCss){
+        //load css files
+        loadCss.load([
+            "assets/css/main.less"
+            ], 'less');
+            
+        require(['order!less']);
         App.initialize(); 
     });

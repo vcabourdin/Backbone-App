@@ -3,18 +3,20 @@
     <head>
         <title></title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="main-build.css" media="screen" />
     </head>
     <body>
         <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#/items">Items</a></li>
         </ul>
-        <div id="page"></div> <!-- /container -->
+        <div id="NQuizzWidget" class="container"></div> <!-- /container -->
 
         <script src="js/libs/require/require.js"></script>
         <script>
             require.config({paths: {"main": "main-build"}});
             require(["main"]);
+            
         </script>
     </body>
 </html>

@@ -36,7 +36,11 @@
     function loadFile(cssPath, type) {
         //Define stylesheet tag
         var linkTag = document.createElement("link");
-        linkTag.setAttribute("rel","stylesheet/"+type);
+        var rel = 'stylesheet';
+        if(type == 'less') {
+            rel += "/" + type;
+        }
+        linkTag.setAttribute("rel",rel);
         linkTag.setAttribute("type","text/"+type);
         linkTag.setAttribute("href",cssPath);
          

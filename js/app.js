@@ -3,18 +3,9 @@ define([
     'jQuery',
     'Underscore',
     'Backbone',
-    'router', // Request router.js
-    'loadCss'
+    'router'
     ], function($, _, Backbone, Router, loadCss){
         var initialize = function(){
-            //load css files
-            loadCss.load([
-                "themes/default/stylesheet.less",
-                "assets/css/main.less"
-            ], 'less');
-            
-            require(['order!less']);
-            
             //Configure the underscore template to look like mustache
             _.templateSettings = {
                 interpolate: /\{\{\=(.+?)\}\}/g,
