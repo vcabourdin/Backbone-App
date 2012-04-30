@@ -11,9 +11,6 @@ define([
             initialize: function(options) {
                 _.bindAll(this, 'render');
                 this.options.items.bind('reset', this.render);
-                $("ul#NItemsUl").on("mouseenter mouseleave", "li.NItemLi", NUtils.toggleHoveredClass);
-                $("div.NRadioItem, div.NCheckboxItem").on("mouseenter mouseleave", "span", NUtils.toggleHoveredClass);
-                $("ul#NItemsUl").on("click", "div.NRadioItem", self.addActiveClass);
             },
             render: function() { 
                 var listTemplate = _.template(itemsListTpl);
@@ -26,7 +23,26 @@ define([
                     });
                 });
                 
+                //attach
+                this.addEvents();
+                
                 return this;
+            },
+            addEvents: function() {
+                $("ul#NItemsUl").on("mouseenter mouseleave", "li.NItemLi", NUtils.toggleHoveredClass);
+                $("div.NRadioItem, div.NCheckboxItem").on("mouseenter mouseleave", "span", NUtils.toggleHoveredClass);
+                $("ul#NItemsUl").on("click", "div.NRadioItem", this.addActiveClass);
+            },
+            addActiveClass : function() {
+                var $NRadioItem = $(this);
+                var $NRadioItems = $NRadioItem.parent('div.NRadioGroup').children('div.NRadioItem');
+                var $NRadioItemInput = $NRadioItem.find('input');
+                var $NItemLi = $NRadioItem.closest('li.NItemLi');
+                $NRadioItems.removeClass('active');
+                $NRadioItem.addClass('active');
+                $NItemLi.addClass('active');
+                $NRadioItemInput.attr('checked',true);
+        
             }
         });
         return list;

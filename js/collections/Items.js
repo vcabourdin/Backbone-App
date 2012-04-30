@@ -17,7 +17,6 @@ define([
                 });
             },
             fetchSuccess: function (collection, response) {
-                
             },
             fetchError: function (collection, response) {
                 throw new Error("Items fetch did get collection from API");

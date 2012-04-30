@@ -6,7 +6,7 @@ define([
 ], function($, _, Backbone, mainHomeTemplate){
 
   var mainHomeView = Backbone.View.extend({
-    el: $("#page"),
+    el: $("#NQuizzWidget"),
     render: function(){
       this.el.html(mainHomeTemplate);
     }
