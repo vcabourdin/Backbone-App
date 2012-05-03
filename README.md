@@ -8,9 +8,8 @@ Backbone-App is a work in progress application that tries to use the best compon
 **Contact:**
 
 *   [My resume](http://vcabourdin.github.com/resume) on Github
-*   [@vcabourdin](http://twitter.com/vcabourdin) on twitter
-*   Github - https://github.com/vcabourdin
+*   [@vcabourdin](http://twitter.com/vcabourdin) on twitter 
 
-**Projects:**
+**Projects on Github - https://github.com/vcabourdin :**
 
 *   jQuery-Module-Pattern - https://github.com/vcabourdin/jQuery-Module-Pattern
